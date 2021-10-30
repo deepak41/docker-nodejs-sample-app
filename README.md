@@ -1,5 +1,7 @@
 # Docker Nodejs Sample App
 
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)  
+
 
 ## Getting Started
 ### To run the project:  

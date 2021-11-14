@@ -4,10 +4,10 @@ FROM node:14
 WORKDIR /usr/src/app
 
 # copy source code
-COPY nodejs-web-app
-.
+COPY nodejs-web-app .
+
 # install packages
 RUN npm install
 
 EXPOSE 3000
-CMD [ "node", "server.js" ]
+CMD ["npm", "start"]

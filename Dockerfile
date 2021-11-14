@@ -1,11 +1,12 @@
 FROM node:14
 
-# Create app directory
+# Create app directory in container
 WORKDIR /usr/src/app
 
-# Bundle app source
-COPY nodejs-web-app .
-
+# copy source code
+COPY nodejs-web-app
+.
+# install packages
 RUN npm install
 
 EXPOSE 3000

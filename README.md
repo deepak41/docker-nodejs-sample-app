@@ -21,7 +21,7 @@
 The app should be up and running. 
 
 
-### To upload/push the image to Docker Hub [hub.docker.com/signup](https://hub.docker.com/signup):  
+### To upload/push the image to Docker Hub ([hub.docker.com/signup](https://hub.docker.com/signup)):  
 
 1. Login into docker hub from terminal:  
 `$ sudo docker login -u "deepak661" -p "password" docker.io`  

@@ -1,6 +1,6 @@
 # Docker Nodejs Sample App
 
-![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)  
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Getting Started

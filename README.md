@@ -1,6 +1,7 @@
 # Docker Nodejs Sample App
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
 
 
 ## Getting Started
